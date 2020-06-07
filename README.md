@@ -2,7 +2,7 @@
 
 This repository has the code use to generate the submission for the DengAI competition hosted by Datadriven (https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/page/80/).
 
-# Challenge Summary: Can you predict local epidemics of dengue fever?
+## Challenge Summary: Can you predict local epidemics of dengue fever?
 
 Dengue fever is a mosquito-borne disease that occurs in tropical and sub-tropical parts of the world. In mild cases, symptoms are similar to the flu: fever, rash, and muscle and joint pain. In severe cases, dengue fever can cause severe bleeding, low blood pressure, and even death.
 
@@ -16,3 +16,11 @@ Using environmental data collected by various U.S. Federal Government agenciesâ€
 This is an intermediate-level practice competition. Your task is to predict the number of dengue cases each week (in each location) based on environmental variables describing changes in temperature, precipitation, vegetation, and more.
 
 An understanding of the relationship between climate and dengue dynamics can improve research initiatives and resource allocation to help fight life-threatening pandemics.
+
+## Submission
+
+Predicted number of total dengue cases in two locations after training the model with different regression models, including linear regression, random forest, support vector machine (SVM), k-nearest neighbor and gradient boosting.
+
+[R code](https://github.com/fehann/DengAI/blob/master/DengAI001.R)
+
+[Submission files](https://github.com/fehann/DengAI/tree/master/Submission)
