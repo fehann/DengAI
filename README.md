@@ -1,6 +1,6 @@
 # DengAI
 
-This repository has the code use to generate the submission for the DengAI competition hosted by [Datadriven](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/page/80/).
+This repository has the code use to generate the submission for the DengAI competition hosted by [DrivenData](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/page/80/).
 
 ## Challenge Summary: Can you predict local epidemics of dengue fever?
 
